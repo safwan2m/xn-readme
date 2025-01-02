@@ -11,14 +11,13 @@
 5.  PDU Session Management (Change in Downlink)
 6.  UE Release from Source gNB
 
-                                           ![](media/image6.png)
+![XN_HO](XN_HO.png)
 
-       ![A diagram of a flowchart Description automatically
-generated](media/image2.png)
+![XN_HO_2](XN_HO_2.png)
 
 **<span class="underline">ARCHITECTURE</span>**
 
-![](media/image5.png)
+![XN_HO_architecture](XN_HO_architecture.png)
 
 **<span class="underline">WORK DONE</span>**
 
