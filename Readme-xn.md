@@ -29,7 +29,7 @@
 
   - Design, Implementation and Testing -XNAP Setup Req/Resp in monolithic gNB
 
-![Some image](media/image4.png)
+![Some image](XN_HO_design.png)
 
 **<span class="underline">CALL FLOW</span>**
 
@@ -90,7 +90,7 @@ The purpose of the Path Switch Request procedure is to establish a UE associated
 The NG-RAN node initiates the procedure by sending the PATH SWITCH REQUEST message to the AMF, to inform the AMF of the new serving NG-RAN node and to transfer some NG-U DL **tunnel** termination point(s) to the SMF via the AMF for one or multiple PDU session resources.
 
 ![A diagram of a path switch Description automatically
-generated](media/image1.png)
+generated](XN_HO_path_switch_req.png)
 
 Fig: Path Switch Request procedure, Successful operation
 
