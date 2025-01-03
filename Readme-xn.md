@@ -90,7 +90,7 @@ The purpose of the Path Switch Request procedure is to establish a UE associated
 The NG-RAN node initiates the procedure by sending the PATH SWITCH REQUEST message to the AMF, to inform the AMF of the new serving NG-RAN node and to transfer some NG-U DL **tunnel** termination point(s) to the SMF via the AMF for one or multiple PDU session resources.
 
 ![A diagram of a path switch Description automatically
-generated](XN_HO_path_switch_req.png)
+generated](XN_HO_initial_path_switch_req.png)
 
 Fig: Path Switch Request procedure, Successful operation
 
